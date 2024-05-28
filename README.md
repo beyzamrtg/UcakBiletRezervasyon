@@ -6,8 +6,11 @@ Proje İçeriği
 Proje aşağıdaki temel formlardan oluşmaktadır:
 
 -Uçak Formu: Uçak model, marka, seri numarası ve koltuk kapasitesi gibi bilgilerin listelenip kaydedildiği form.
+
 -Lokasyon Formu: Ülke, şehir, havaalanı ve aktif/pasif durumların belirtildiği form.
+
 -Rezervasyon Formu: Koltukların satılma durumuna göre renk değiştirdiği ve koltuk üzerine tıklanınca müşteri bilgilerinin görüntülendiği form.
+
 Kullanım
 Uçak Ekleme
 Uçak bilgilerini (Model, Marka, Seri No, Koltuk Kapasitesi) girin.
